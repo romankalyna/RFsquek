@@ -70,8 +70,8 @@ Find all code and hardware files in this repo:
 
 ## 🖼️ Gallery
 
-![Project Photo 1](images/project_photo_1.jpg)
-![Project Photo 2](images/project_photo_2.jpg)
+![Project Photo 1](photo1RF.jpeg)
+![Project Photo 2](photo2RF.jpeg)
 
 ---
 
