@@ -44,7 +44,7 @@ Welcome to **RFsquek** – an open-source project for RF spectrum analysis and M
 - **Spectrum scan logic**: Waterfall/frequency occupancy detection
 - **Morse code encoder/decoder**
 - **Button handler** (debouncing, events)
-- **Display driver** (if OLED used)
+- **Display driver** 
 - **Serial output** for debugging/logging
 
 ---
