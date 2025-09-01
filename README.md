@@ -24,18 +24,17 @@ Welcome to **RFsquek** – an open-source project for RF spectrum analysis and M
 - **Buttons:** For Morse key, scan, menu
 - **OLED Display:** For spectrum & Morse visualization 
 - **potentiometer** For changes in waves,treshholds and scrolling
-
 ---
 
 ## 🛠️ Wiring Diagram
 
 ![Wiring Diagram](WiringDiagram.png)
-
+**Important** wire  0.1 μF (100 nF) ceramic capacitor for potentiometer (GND and GPIO) and for cc1101 (VCC GND).
 - **CC1101 SPI pins**: Connect as written
 - **Buttons**: GPIO to GND (INPUT_PULLUP)
 - **OLED Pins** Connect as written 
 - **Power**: Common VCC (3.3V) and GND via HW-441
-
+- **Important** wire  0.1 μF (100 nF) ceramic capacitor for potentiometer (GND and GPIO) and for cc1101 (VCC GND).
 ---
 
 ## 💻 Software
