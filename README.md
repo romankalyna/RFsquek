@@ -34,7 +34,7 @@ Welcome to **RFsquek** – an open-source project for RF spectrum analysis and M
 - **Buttons**: GPIO to GND (INPUT_PULLUP)
 - **OLED Pins** Connect as written 
 - **Power**: Common VCC (3.3V) and GND via HW-441
-- **Important** wire  0.1 μF (100 nF) ceramic capacitor for potentiometer (GND and GPIO) and for cc1101 (VCC GND).
+- **Again Important** wire  0.1 μF (100 nF) ceramic capacitor for potentiometer (GND and GPIO) and for cc1101 (VCC GND).
 ---
 
 ## 💻 Software
@@ -86,3 +86,6 @@ Find all code and hardware files in this repo:
 
 Questions or feedback?  
 Open an issue or contact me via GitHub.
+## 📚 Libraries Used
+
+- [RadioLib](https://github.com/jgromes/RadioLib) by Jan Gromeš (MIT License)
