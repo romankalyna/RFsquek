@@ -28,7 +28,7 @@ Welcome to **RFsquek** – an open-source project for RF spectrum analysis and M
 
 ## 🛠️ Wiring Diagram
 
-![Wiring Diagram](wiringDiagram.png)
+![Wiring Diagram](WiringDiagram.png)
 
 - **CC1101 SPI pins**: Connect as written
 - **Buttons**: GPIO to GND (INPUT_PULLUP)
