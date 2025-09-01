@@ -9,8 +9,8 @@ Welcome to **RFsquek** – an open-source project for RF spectrum analysis and M
 - **RF spectrum scanning**: Visualize channel activity and occupancy (“waterfall” view)
 - **Morse code communication**: Transmit & receive Morse between nodes
 - **Button interface**: For Morse keying and controls
-- **OLED/Display support**: (optional) Real-time spectrum or Morse display
-- **Sensor integration**: Add analog/digital sensors for telemetry
+- **OLED/Display support**: Real-time spectrum or Morse display
+- **potentiometer**: easy scrolling and editing (wave length and fre.)
 - **Low power operation**: Efficient design for portable use
 
 ---
