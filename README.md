@@ -60,7 +60,7 @@ Find all code and hardware files in this repo:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/romankalyna/RFsquek.ino
+   git clone https://github.com/romankalyna/RFsquek
    ```
 2. Flash the code to your ESP32.
 3. Connect hardware as shown in the wiring diagram.
