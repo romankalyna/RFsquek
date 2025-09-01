@@ -1,4 +1,5 @@
-# RFsquek: ESP32 + CC1101 RF Spectrum Scanner & Morse Communicator
+# RFsquek: ESP32 + CC1101 RF Spectrum Scanner & Morse Communicator 
+By Roman Kalyna 
 
 Welcome to **RFsquek** – an open-source project for RF spectrum analysis and Morse code communication using ESP32 and CC1101 radio modules!
 
