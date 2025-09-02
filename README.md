@@ -86,6 +86,13 @@ Find all code and hardware files in this repo:
 
 Questions or feedback?  
 Open an issue or contact me via GitHub.
+
 ## 📚 Libraries Used
 
-- [RadioLib](https://github.com/jgromes/RadioLib) by Jan Gromeš (MIT License)
+This project uses the following libraries:
+
+- [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) — MIT License
+- [Adafruit ST7789](https://github.com/adafruit/Adafruit-ST7789-Library) — MIT License
+- [RadioLib](https://github.com/jgromes/RadioLib) — MIT License
+
+These libraries are used as dependencies via their public APIs. No code was copied directly from them.
