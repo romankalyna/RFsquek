@@ -91,8 +91,8 @@ Open an issue or contact me via GitHub.
 
 This project uses the following libraries:
 
-- [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) — MIT License
-- [Adafruit ST7789](https://github.com/adafruit/Adafruit-ST7789-Library) — MIT License
-- [RadioLib](https://github.com/jgromes/RadioLib) — MIT License
+- [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+- [Adafruit ST7789](https://github.com/adafruit/Adafruit-ST7735-Library) 
+- [RadioLib](https://github.com/jgromes/RadioLib)
 
 These libraries are used as dependencies via their public APIs. No code was copied directly from them.
